@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\GIT\CSR-GQT-PROJECT\.metadata\.plugins\org.eclipse.jdt.core
+4230409509.index
+1865797976.index
+2447457516.index
